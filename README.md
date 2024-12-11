@@ -1,3 +1,5 @@
+![rstudio-docker](https://github.com/user-attachments/assets/b0c4df8a-3a7d-4bca-b20e-b3e0e62e11c4)
+
 # Dockerized RStudio and MySQL Setup
 
 This project provides a Dockerized setup for running RStudio and MySQL together. It includes the installation of necessary MySQL client libraries and the `RMariaDB` R package for seamless MySQL database connections within RStudio.
