@@ -32,10 +32,6 @@ The project uses `docker-compose` to orchestrate the RStudio and MySQL container
    - docker-compose up --build
 
  ##  creds:   
- Username: admin2
- password: redhat
+ - Username: admin2
+ - password: redhat
 
-
-
-
-docker build --pull --rm -f "Dockerfile" -t rocker/rstudio:latest "."
