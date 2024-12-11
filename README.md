@@ -24,7 +24,7 @@ The project uses `docker-compose` to orchestrate the RStudio and MySQL container
 
 1. **Clone the repository**:
 
-   - git clone https://github.com/your-username/docker-rstudio-mysql.git
+   - git clone https://github.com/faizank789/docker-rstudio-mysql.git
    - cd docker-rstudio-mysql
    - docker build -t rocker/rstudio:latest .
    - docker-compose up --build
